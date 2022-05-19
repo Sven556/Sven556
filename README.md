@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sven556
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ language
 - 📫 How to reach me email(svenislav123@gmail.com)
 
